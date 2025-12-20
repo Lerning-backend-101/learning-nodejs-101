@@ -25,6 +25,3 @@ emitter.on("login", (user) => {
 
 // Emit an event
 emitter.emit("login", "Max");
-
-// run
-// node basic-built-in-function/events.js

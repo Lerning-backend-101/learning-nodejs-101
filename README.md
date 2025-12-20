@@ -1,2 +1,1 @@
-# .
-learning nodejs 101
+# Leaning Node.js

@@ -12,7 +12,3 @@ fs.readFile("data.txt", "utf8", (err, data) => {
 // Reading a file
 const data = fs.readFileSync("log.txt", "utf8");
 console.log(data);
-
-
-// run
-// node basic-built-in-function/file-system.js

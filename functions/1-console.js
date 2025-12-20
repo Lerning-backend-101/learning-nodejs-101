@@ -10,4 +10,4 @@ console.warn("Warning");
 console.table([{ name: "Alice" }, { name: "Bob" }]);
 
 // run
-// node basic-built-in-function/console.js
+// node functions/console.js
